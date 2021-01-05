@@ -1,0 +1,14 @@
+#########################
+Developed By HalocDZ
+#########################
+
+---------------------------------------------------------
+How to Trial Reset Kaspersky Products ?
+---------------------------------------------------------
+Supports 18.0.0.405 Only
+After your official trial period is over.
+1- Open Kaspersky installed product.
+2- Disable Self Defence (very important).
+3- Exit Kaspersky.
+4- Run trial reset tool & Click on Reset Button.
+All Done Enjoy !.
